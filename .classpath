@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Abdallah/workspace/NewsReader/lib/stanford-corenlp-3.7.0.jar" sourcepath="lib/stanford-corenlp-3.7.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Abdallah/workspace/NewsReader/lib/stanford-corenlp-3.7.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Abdallah/workspace/NewsReader/lib/stanford-corenlp-3.7.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdallah/workspace/NewsReader/lib/stanford-corenlp-3.7.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Abdallah/workspace/NewsReader/lib/stanford-corenlp-3.7.0-sources.jar"/>
+	<classpathentry kind="lib" path="lib/Jsoup/Jsoup/jsoup-1.10.2.jar" sourcepath="lib/Jsoup/Jsoup/jsoup-1.10.2-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/NewsReader/lib/Jsoup/Jsoup/jsoup-1.10.2-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/commons-lang3-3.5.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/cssparser-0.9.22.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/htmlunit-2.26.jar" sourcepath="lib/HTMLUnit/htmlunit-2.26-src/src">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Abdallah/workspace/NewsReader/lib/HTMLUnit/apidocs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/htmlunit-core-js-2.26.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/httpmime-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/jetty-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/jetty-http-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/jetty-io-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/jetty-util-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/neko-htmlunit-2.25.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/websocket-api-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/websocket-client-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/websocket-common-9.4.3.v20170317.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="lib/HTMLUnit/lib/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="lib/stanford-classifier-3.7.0.jar" sourcepath="lib/stanford-classifier-3.7.0-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/NewsReader/lib/stanford-classifier-3.7.0-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="lib/C4J/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="E:/CS-4th Year/GP/Software/Classifier4j/Classifier4J.jar" sourcepath="E:/CS-4th Year/GP/Software/src/net/sf"/>
+	<classpathentry kind="lib" path="E:/Programming/JDBC 4.2/Microsoft JDBC Driver 4.2 for SQL Server/sqljdbc_4.2/enu/sqljdbc42.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
